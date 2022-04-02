@@ -7,8 +7,10 @@
 		"preview": "vite preview"
 	},
 	"dependencies": {
+		"date-fns": "^2.28.0",
 		"preact": "^10.6.6",
-		"preact-iso": "^2.3.0"
+		"preact-iso": "^2.3.0",
+		"preact-render-to-string": "^5.1.20"
 	},
 	"devDependencies": {
 		"@preact/preset-vite": "^2.1.7",
